@@ -36,4 +36,4 @@ Cada relatório é fornecido como um arquivo Markdown separado. Você pode clica
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para obter detalhes.
