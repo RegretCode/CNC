@@ -1,6 +1,6 @@
 # Relatórios de Cálculo Numérico Computacional
 
-Este repositório contém quatro relatórios relacionados à disciplina de Cálculo Numérico Computacional. Cada relatório se concentra em diferentes aspectos de métodos numéricos e cálculos. Abaixo, está uma visão geral de cada relatório:
+Este repositório contém quatro relatórios relacionados à disciplina de Cálculo Numérico Computacional. Cada relatório se concentra em diferentes aspectos de métodos numéricos e cálculos. Todos os relatórios foram avaliados e estão disponíveis para consulta. Abaixo, está uma visão geral de cada relatório:
 
 ## Relatório 1 - Resolução Numérica de Equações Algébricas e Transcendentes
 
